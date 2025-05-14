@@ -1,7 +1,7 @@
 {
-  "name": "alurageek-api",
+  "name": "PetNova-FakeApi",
   "version": "1.0.0",
-  "description": "Products for Alura Geek fake store api",
+  "description": "Database of the PetNova",
   "main": "index.js",
   "scripts": {
     "start": "node api/server.js"
@@ -12,17 +12,17 @@
   },
   "keywords": [
     "alura",
-    "alurageek",
+    "PetNova",
     "json-server",
     "javascript",
     "API"
   ],
-  "author": "Sofidev, contact@itssofi.dev",
+  "author": "PetNova, Grupo 4",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SofiDevO/alurageek-API/issues"
+    "url": "https://github.com/1ASI0730-2510-4370-G4-PetNova"
   },
-  "homepage": "https://github.com/SofiDevO/alurageek-API#readme",
+  "homepage": "https://github.com/1ASI0730-2510-4370-G4-PetNova/PetNova-Report",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
