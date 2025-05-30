@@ -1,13 +1,13 @@
 {
   "clients": [
     {
-      "id": "26ed",
-      "fullName": "fghkghjkghjkhjk",
-      "phone": "wer",
-      "email": "wer",
-      "address": "er",
-      "status": "erer",
-      "hc": "ert"
+      "id": "1",
+      "fullName": "Joaquin Sanchez",
+      "phone": "987654321",
+      "email": "joaquin@gmail.com",
+      "address": "123456",
+      "status": "activo",
+      "hc": "001"
     },
     {
       "id": "bdd9",
